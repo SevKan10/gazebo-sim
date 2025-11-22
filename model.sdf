@@ -32,7 +32,7 @@
 
     <!-- ================= LIDAR ================= -->
     <link name="lidar_link">
-      <pose>0 0 0.20 0 0 3.14</pose> <!-- tuy chinh vi tri -->
+      <pose>0.8 0.6 0.20 0 0 3.14</pose> <!-- tuy chinh vi tri -->
       <visual name="lidar_visual">
         <geometry>
           <mesh>
